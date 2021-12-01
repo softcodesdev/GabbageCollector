@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Garbage</string>
     <string name="let_us_conserve_our_environment">Let Us conserve our Environment!</string>
+    <string name="report_as_anonymous">Report As Anonymous</string>
 </resources>

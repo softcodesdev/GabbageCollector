@@ -115,14 +115,15 @@
 
         </LinearLayout>
     </LinearLayout>
+
     <TextView
+        style="@style/TextAppearance.AppCompat.Title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="center"
+        android:layout_below="@+id/lo"
         android:layout_gravity="bottom"
+        android:gravity="center"
         android:onClick="report_as_anonymous"
-        style="@style/TextAppearance.AppCompat.Title"
-        android:text="Report As Anonymous"
-        android:layout_below="@+id/lo"/>
+        android:text="@string/report_as_anonymous" />
 
 </RelativeLayout>
