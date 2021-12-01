@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#dc143c</color>
+    <color name="colorPrimaryDark">#dc143c</color>
+
+    <color name="colorPrimaryDark2">#0505EB</color>
+    <color name="colorPrimaryLight">#6A6AFD</color>
+    <color name="colorPrimaryLight2">#9393fc</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="light_background">#f2f2f2</color>
+    <color name="colorGrey">#A8A7A7</color>
+    <color name="colorGreyDark">#6d6a4a</color>
+    <color name="colorGreyLight">#7d7c7c</color>
+    <color name="outdated">#bbbbbb</color>
+    <color name="blue">#4444FD</color>
+    <color name="purple">#9A34FF</color>
+    <color name="grey">#acacac</color>
+    <color name="google_red">#db3236</color>
+    <color name="dark_grey">#2f4f4f</color>
+    <color name="light_grey">#f3f3f3</color>
+    <color name="light_grey_result">#efeff4</color>
+    <color name="colorGrey1">#888888</color>
+    <color name="colorGrey2">#5A5A5A</color>
+    <color name="app_blue">#fb236a</color>
+</resources>
